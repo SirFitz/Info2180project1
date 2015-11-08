@@ -5,6 +5,7 @@ var bob = {
     email: "bob.jones@example.com"
 };
 
+
 var mary = {
     firstName: "Mary",
     lastName: "Johnson",
